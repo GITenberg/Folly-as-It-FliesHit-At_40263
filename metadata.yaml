@@ -1,0 +1,39 @@
+_repo: Folly-as-It-FliesHit-At_40263
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fern, Fanny
+    aliases:
+    - Parton, Sara Payson Willis
+    - Willis, Grata Payson
+    birthdate: 1811
+    deathdate: 1872
+    gutenberg_agent_id: '9387'
+    url: http://www.gutenberg.org/2009/agents/9387
+description: ''
+gutenberg_issued: '2012-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40263'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American essays -- 19th century'
+tableOfContents: Discourse upon husbands -- Grandmother's chat about children -- Women
+  and their discontents -- Women and some of their mistakes -- Notes upon preachers
+  and preaching -- Bridget as she was, and Bridget as she is -- A chapter on tobacco
+  -- Give the convicts a chance -- A glance at Washington -- Glimpses of camp life
+  -- Unwritten history of the war -- My summers in New England -- Boston and New York
+  -- Some things in New York -- Working girls of New York -- Washing the baby -- Children
+  have their rights -- Mourning -- To young girls -- A little talk with the other
+  sex -- A chapter on men -- Literary people -- Some varieties of women -- Mistakes
+  about our children -- Thoughts of some every day topics -- A trip to the northern
+  lakes.
+title: Folly as It Flies; Hit at by Fanny Fern
+url: http://www.gutenberg.org/ebooks/40263
